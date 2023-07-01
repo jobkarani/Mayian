@@ -55,6 +55,7 @@ $(function() {
   $.getScript('https://www.googletagmanager.com/gtag/js?id=AW-864788073');
 
   function gtag_report_conversion(url) {
+    
     var callback = function () {
       if (typeof(url) != 'undefined') {
         window.location = url;
