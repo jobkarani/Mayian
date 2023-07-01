@@ -24,10 +24,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 
     <!-- css -->
-    <link rel="stylesheet" href="{{ staticAsset('assets/css/uppy.css') }}">
-    <link rel="stylesheet" href="{{ staticAsset('assets/css/vendors.css') }}">
-    <link rel="stylesheet" href="{{ staticAsset('assets/css/yestech.css') }}">
-    <link rel="stylesheet" href="{{ staticAsset('assets/css/custom-style.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/uppy.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/vendors.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/yestech.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/custom-style.css') }}">
     <!-- css -->
 
     <!-- header scripts -->

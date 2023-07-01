@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../chirper"
+		},
+		{
+			"path": "../../../../laravel_api"
+		}
+	],
+	"settings": {}
+}
